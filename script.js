@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
             color: "text-warning",
             title: "Content Differentiator",
             description: "Uncover what makes your content stand out. Analyze, compare, and shine bright in the sea of content. Perfect for creators and digital strategists. ✨",
-            link: "content-differentiator.html",
+            link: "https://content-differentiator.onrender.com/",
             button: "Explore Tool",
             btnClass: "btn-warning"
         },
