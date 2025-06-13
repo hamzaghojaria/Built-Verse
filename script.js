@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <h5 class="fw-bold">${p.title}</h5>
         <p class="text-muted small description">${p.description}</p>
     </div>
-    <a href="${p.link}" class="btn ${p.btnClass} rounded-pill px-4 fw-semibold">
+    <a href="${p.link}" target="_blank" rel="noopener noreferrer" class="btn ${p.btnClass} rounded-pill px-4 fw-semibold">
         ${p.button} <i class="bi bi-arrow-right-circle ms-2"></i>
     </a>
     `;
