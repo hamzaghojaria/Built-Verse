@@ -258,12 +258,14 @@ body {
 
 
 .team-card {
-    width: 400px !important;
-    height: 430px !important;
+    flex: 0 0 auto;
+    width: 280px;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
+
 
 .team-card .bio {
     display: -webkit-box;
