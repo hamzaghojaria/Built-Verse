@@ -36,6 +36,8 @@ body {
 }
 
 
+
+
 .team-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
@@ -49,7 +51,7 @@ body {
 }
 
 .social-icons a {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     transition: color 0.3s ease;
 }
 
@@ -166,17 +168,13 @@ body {
 .product-card .description {
     display: -webkit-box;
     display: box;
-    /* Fallback for some older specs */
     -webkit-line-clamp: 3;
-    /* Limit to 3 lines */
     line-clamp: 3;
-    /* Standard property */
     -webkit-box-orient: vertical;
     box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
     min-height: 65px;
-    /* Consistent height */
 }
 
 
@@ -256,3 +254,24 @@ body {
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
 }
+
+
+
+.team-card {
+    width: 400px !important;
+    height: 430px !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.team-card .bio {
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* number of lines to show */
+    line-clamp: 3; /* standard property for compatibility */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-height: 65px; /* optional: for consistent height */
+}
+
