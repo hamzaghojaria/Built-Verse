@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
             color: "text-success",
             title: "Cover Letter Generator",
             description: "Generate personalized cover letters in seconds. Boost your job applications with AI-powered professionalism and confidence. 💼",
-            link: "cover-letter.html",
+            link: "https://cover-letter-generator-phse.onrender.com/",
             button: "Try Generator",
             btnClass: "btn-success"
         },
