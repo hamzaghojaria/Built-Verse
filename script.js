@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
             icon: "bi-lightbulb-fill",
             color: "text-warning",
             title: "Content Differentiator",
-            description: "Uncover what makes your content stand out. Analyze, compare, and shine bright in the sea of content. Perfect for creators and digital strategists. ✨",
+            description: "Effortlessly compare two columns from your uploaded CSV or Excel file — the tool highlights row-by-row differences and lets you download a clean, structured Excel output. ✨",
             link: "https://content-differentiator.onrender.com/",
             button: "Explore Tool",
             btnClass: "btn-warning"
@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
             icon: "bi-pencil-square",
             color: "text-success",
             title: "Cover Letter Generator",
-            description: "Generate personalized cover letters in seconds. Boost your job applications with AI-powered professionalism and confidence. 💼",
+            description: "Generate personalized cover letters in seconds. Boost your job applications with professionalism and confidence. 💼",
             link: "https://cover-letter-generator-phse.onrender.com/",
             button: "Try Generator",
             btnClass: "btn-success"
