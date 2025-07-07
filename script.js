@@ -54,51 +54,52 @@ document.addEventListener("DOMContentLoaded", () => {
             button: "Try Generator",
             btnClass: "btn-success"
         },
-        {
-        icon: "bi-journal-text",
-        color: "text-primary",
-        title: "AI MCQ Generator",
-        description: "Upload study material and auto-generate MCQs. Test your knowledge and get instant scores powered by smart AI 📘✨",
-        link: "ai-mcq-generator.html",
-        button: "Try Now",
-        btnClass: "btn-primary"
-        },
-        {
-        icon: "bi-file-earmark-bar-graph",
-        color: "text-warning",
-        title: "Smart Sheet Reanalyzer",
-        description: "Analyze Google Sheet posts with AI. Automate insights, pattern recognition, and smart re-analysis in one click 📊🤖",
-        link: "smart-sheet-ai.html",
-        button: "Analyze Sheet",
-        btnClass: "btn-warning"
-        },
-        {
-        icon: "bi-geo-alt-fill",
-        color: "text-danger",
-        title: "AI Maps Route Alert",
-        description: "Get the best route suggestion before departure. Combines Google Maps + AI to optimize travel 🚗🧭",
-        link: "ai-maps-alert.html",
-        button: "View Routes",
-        btnClass: "btn-danger"
-        },
-        {
-        icon: "bi-puzzle-fill",
-        color: "text-secondary",
-        title: "Jigsaw Puzzle Game",
-        description: "Challenge your brain with fun and interactive jigsaw puzzles. A perfect break for creative minds 🧩🎯",
-        link: "jigsaw.html",
-        button: "Play Puzzle",
-        btnClass: "btn-secondary"
-        },
-        {
-        icon: "bi-search-heart",
-        color: "text-info",
-        title: "Smart Text Matcher",
-        description: "Search with precision. Combine exact text match with semantic similarity using Hungarian Matching 🔍💡",
-        link: "semantic-search.html",
-        button: "Try Search",
-        btnClass: "btn-info"
-        }   
+                      
+        // {
+        // icon: "bi-journal-text",
+        // color: "text-primary",
+        // title: "AI MCQ Generator",
+        // description: "Upload study material and auto-generate MCQs. Test your knowledge and get instant scores powered by smart AI 📘✨",
+        // link: "ai-mcq-generator.html",
+        // button: "Try Now",
+        // btnClass: "btn-primary"
+        // },
+        // {
+        // icon: "bi-file-earmark-bar-graph",
+        // color: "text-warning",
+        // title: "Smart Sheet Reanalyzer",
+        // description: "Analyze Google Sheet posts with AI. Automate insights, pattern recognition, and smart re-analysis in one click 📊🤖",
+        // link: "smart-sheet-ai.html",
+        // button: "Analyze Sheet",
+        // btnClass: "btn-warning"
+        // },
+        // {
+        // icon: "bi-geo-alt-fill",
+        // color: "text-danger",
+        // title: "Maps Route Alert",
+        // description: "Get the best route suggestion before departure. Combines Google Maps + AI to optimize travel 🚗🧭",
+        // link: "ai-maps-alert.html",
+        // button: "View Routes",
+        // btnClass: "btn-danger"
+        // },
+        // {
+        // icon: "bi-puzzle-fill",
+        // color: "text-secondary",
+        // title: "Jigsaw Puzzle Game",
+        // description: "Challenge your brain with fun and interactive jigsaw puzzles. A perfect break for creative minds 🧩🎯",
+        // link: "jigsaw.html",
+        // button: "Play Puzzle",
+        // btnClass: "btn-secondary"
+        // },
+        // {
+        // icon: "bi-search-heart",
+        // color: "text-info",
+        // title: "Smart Text Matcher",
+        // description: "Search with precision. Combine exact text match with semantic similarity using Hungarian Matching 🔍💡",
+        // link: "semantic-search.html",
+        // button: "Try Search",
+        // btnClass: "btn-info"
+        // }   
 
 
         // Add more products here
