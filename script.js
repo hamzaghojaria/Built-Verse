@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
             color: "text-warning",
             title: "Amazon Best Sellers Tracker",
             description: "Track the hottest best-selling products on Amazon by category. Discover trends, compare top items, and stay ahead of the market 📈🛒",
-            link: "amazon-best-sellers.html",
+            link: "https://amazon-best-sellers-tracker.onrender.com",
             button: "Explore Now",
             btnClass: "btn-warning"
         },
