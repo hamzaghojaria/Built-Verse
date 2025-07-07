@@ -54,6 +54,16 @@ document.addEventListener("DOMContentLoaded", () => {
             button: "Try Generator",
             btnClass: "btn-success"
         },
+        {
+            icon: "bi-bar-chart-line",
+            color: "text-warning",
+            title: "Amazon Best Sellers Tracker",
+            description: "Track the hottest best-selling products on Amazon by category. Discover trends, compare top items, and stay ahead of the market 📈🛒",
+            link: "amazon-best-sellers.html",
+            button: "Explore Now",
+            btnClass: "btn-warning"
+        },
+
                       
         // {
         // icon: "bi-journal-text",
