@@ -63,6 +63,15 @@ document.addEventListener("DOMContentLoaded", () => {
             button: "Explore Now",
             btnClass: "btn-warning"
         },
+        {
+        icon: "bi-geo-alt-fill",
+        color: "text-danger",
+        title: "Maps Alert Scheduler",
+        description: "Plan your trips, visualize routes on a map, and get email alerts before your departure🚗🧭",
+        link: "https://maps-alert-scheduler.onrender.com",
+        button: "View Routes",
+        btnClass: "btn-danger"
+        },
 
                       
         // {
@@ -82,15 +91,6 @@ document.addEventListener("DOMContentLoaded", () => {
         // link: "smart-sheet-ai.html",
         // button: "Analyze Sheet",
         // btnClass: "btn-warning"
-        // },
-        // {
-        // icon: "bi-geo-alt-fill",
-        // color: "text-danger",
-        // title: "Maps Route Alert",
-        // description: "Get the best route suggestion before departure. Combines Google Maps + AI to optimize travel 🚗🧭",
-        // link: "ai-maps-alert.html",
-        // button: "View Routes",
-        // btnClass: "btn-danger"
         // },
         // {
         // icon: "bi-puzzle-fill",
